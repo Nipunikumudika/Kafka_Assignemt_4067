@@ -12,19 +12,6 @@ This repository contains a **Python-based Kafka system** that produces and consu
 # Demonstration
 https://github.com/Nipunikumudika/Kafka_Assignemt_4067/blob/main/Demonstration.mp4
 
-## Table of Contents
-
-- [Project Structure](#project-structure)  
-- [Requirements](#requirements)  
-- [Setup](#setup)  
-- [Kafka Topics](#kafka-topics)  
-- [Usage](#usage)  
-- [Features](#features)  
-- [Avro Schema](#avro-schema-orderavsc)  
-- [Expected Output](#expected-output)  
-- [Notes](#notes)  
-
----
 
 ## Project Structure
 
@@ -112,12 +99,12 @@ python DLQViewer.py
 # Output
 ### Producer
 
-<img src="images/producer.jpg" width="500"/>
+<img src="images/producer.jpg" width="700"/>
 
 ### Consumer
 
-<img src="images/consumer.jpg" width="500"/>
+<img src="images/consumer.jpg" width="700"/>
 
 ### Dead Letter Queue Viewer
 
-<img src="images/consumer.jpg" width="500"/>
+<img src="images/consumer.jpg" width="700"/>
