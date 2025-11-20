@@ -107,4 +107,4 @@ python DLQViewer.py
 
 ### Dead Letter Queue Viewer
 
-<img src="images/consumer.jpg" width="700"/>
+<img src="images/DLQ.jpg" width="700"/>
