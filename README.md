@@ -10,8 +10,8 @@ This repository contains a **Python-based Kafka system** that produces and consu
 ---
 
 # Demonstration
-https://github.com/Nipunikumudika/Kafka_Assignemt_4067/blob/main/Demonstration.mp4
 
+https://github.com/user-attachments/assets/5040779e-3cfd-41af-9eba-21cf69b90448
 
 ## Project Structure
 
@@ -99,12 +99,12 @@ python DLQViewer.py
 # Output
 ### Producer
 
-<img src="images/producer.jpg" width="700"/>
+![producer](https://github.com/user-attachments/assets/1209f398-9bb9-43bb-a0b3-c932dcc2815c)
 
 ### Consumer
 
-<img src="images/consumer.jpg" width="700"/>
+![consumer](https://github.com/user-attachments/assets/5562ba00-11d1-42bf-8563-e5b35d6c8f25)
 
 ### Dead Letter Queue Viewer
 
-<img src="images/DLQ.jpg" width="700"/>
+![DLQ](https://github.com/user-attachments/assets/8dac58e8-9b24-4b3b-ba81-340616ddca01)
