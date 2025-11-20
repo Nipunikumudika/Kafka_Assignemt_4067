@@ -5,7 +5,9 @@ This repository contains a **Python-based Kafka system** that produces and consu
 - Real-time aggregation (running average of prices)  
 - Retry logic for temporary failures (3 retries)  
 - Dead Letter Queue (DLQ) for permanently failed messages  
-- Viewing DLQ messages  
+- Viewing DLQ messages
+  
+Here for the demonstration of dead letter queue we temporary off the consumer when the price is above 90. 
 
 ---
 
